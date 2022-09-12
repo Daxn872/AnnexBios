@@ -1,11 +1,27 @@
 * { 
     background-color: none;
 }
+.header { 
+    width: 1920px;
+    height: 161px;}
+.logo { 
+    width: 350.92px;
+    height: 104.36px;
+}
+.nav { 
+  width: 1920px;
+  height: 161px;
+}
+.background { 
+  width: 1920px;
+  height: 1639px;
+  filter: brightness(35%);
+}
 
-
-
-
-
+.welcome { 
+  width: 1576px;
+  height: 384px;
+}
 
 
 
