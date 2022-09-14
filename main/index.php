@@ -9,33 +9,9 @@
     <link rel="stylesheet" href="../main/assets/css/style.css">
 </head>
 <body>
-
-    <header>
-        <div class="container">
-            <div class="logo">
-                <img src="assets/img/logo/logo_hoofd.png" alt="logo">
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="pages/agenda.html">FILM AGENDA</a></li>
-                    <li><a href="pages/all.html">ALLE VESTIGINGEN</a></li>
-                    <li><a href="pages/contact.html">CONTACT</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-
-    <div class="dropdown">
-        <h2>KOOP JE TICKETS</h2>
-        <button onclick="myFunction()" class="dropbtn">Kies je film</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a href="#">JURASSIC WORLD: FALLEN KINGDOM </a>
-          <a href="#">DEADPOOL 2</a>
-          <a href="#">SOLO: A STAR WARS STORY</a>
-          <a href="#">PIETER KONIJN</a>
-        </div>
-        <button><h2>BESTEL TICKETS</h2></button>
-      </div>
+    <?php
+    include 'header.php'; 
+    ?>
 
 
 
