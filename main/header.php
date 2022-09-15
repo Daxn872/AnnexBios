@@ -17,9 +17,9 @@
             </div>
             <nav>
                 <ul>
-                    <li><a href="pages/agenda.html">FILM AGENDA</a></li>
-                    <li><a href="pages/all.html">ALLE VESTIGINGEN</a></li>
-                    <li><a href="pages/contact.html">CONTACT</a></li>
+                    <li><a href="pages/agenda.PHP">FILM AGENDA</a></li>
+                    <li><a href="pages/all.PHP">ALLE VESTIGINGEN</a></li>
+                    <li><a href="pages/contact.PHP">CONTACT</a></li>
                 </ul>
             </nav>
         </div>
@@ -34,8 +34,10 @@
           <a href="#">SOLO: A STAR WARS STORY</a>
           <a href="#">PIETER KONIJN</a>
         </div>
-        <button><h2>BESTEL TICKETS</h2></button>
-      </div>
+        <form action="./pages/tickets.PHP">
+    <input type="submit" value="BESTEL JE TICKETS" />
+</form>
+    </div>
       </body>
 
       </html> 
