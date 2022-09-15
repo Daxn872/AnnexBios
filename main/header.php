@@ -7,21 +7,34 @@
     , initial-scale=1.0">
     <title>AnnexBios | Montfoort</title>
     <link rel="stylesheet" href="../main/assets/css/header.css">
+    <script src="assets/js/script.js"></script>
 </head>
 <body>
 
     <header>
-        <div class="container">
-            <div class="logo">
-                <img src="assets/img/logo/montfoort.png" alt="logo">
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="pages/agenda.PHP">FILM AGENDA</a></li>
-                    <li><a href="pages/all.PHP">ALLE VESTIGINGEN</a></li>
-                    <li><a href="pages/contact.PHP">CONTACT</a></li>
-                </ul>
-            </nav>
+
+   <!--Navbar start-->
+   <nav class="navbar">
+      <img class="logo" src="assets/img//logo/montfoort.png"alt="logo">
+      <a href="index.html" class="nav-logo"></a>
+      <ul class="nav-menu">
+          <li class="nav-item">
+              <a href="index.html"  class="nav-link">FILM AGENDA</a>
+          </li>
+                  <li class="nav-item">
+              <a href="#" class="nav-link">ALLE VESTIGINGEN</a>
+          </li>
+          <li class="nav-item">
+              <a href="releases.html"  class="nav-link">CONTACT</a>
+          </li>
+      </ul>
+      <div class="hamburger">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+      </div>
+  </nav>
+          <!--Navbar end-->
         </div>
     </header>
 
@@ -34,8 +47,9 @@
           <a href="#">SOLO: A STAR WARS STORY</a>
           <a href="#">PIETER KONIJN</a>
         </div>
-        <form action="./pages/tickets.PHP">
-    <input type="submit" value="BESTEL JE TICKETS" />
+        <div class="order"> <!--order button-->
+            <a href="pages/tickets.PHP" class="butn">BESTEL JE TICKETS</a>
+        </div>
 </form>
     </div>
       </body>

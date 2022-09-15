@@ -38,7 +38,7 @@
         </div>
     </section>
     <section class="contact">
-        <div class="container">
+        <div class="cc">
             <h1>Contact Us</h1>
             <div class="contact-box">
                 <div class="contact-info">
