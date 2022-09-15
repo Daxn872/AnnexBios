@@ -1,14 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 .header { 
     width: 1920px;
     height: 161px;}
 .logo { 
     width: 350.92px;
     height: 104.36px;
-}
+  } 
 .nav { 
   width: 1920px;
   height: 161px;
-}
+  font-family: lato;
+  font-style: semibold;
+} 
 /* Dropdown Button start*/
 .dropbtn {
     background-color: #76BBD9;

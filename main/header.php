@@ -13,7 +13,7 @@
     <header>
         <div class="container">
             <div class="logo">
-                <img src="assets/img/logo/logo_hoofd.png" alt="logo">
+                <img src="assets/img/logo/montfoort.png" alt="logo">
             </div>
             <nav>
                 <ul>
