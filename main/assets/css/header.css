@@ -64,7 +64,7 @@ a {
     font-weight: 500;
     color: #ffffff;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1060px) {
     .nav-menu {
         position: fixed;
         left: -100%;
