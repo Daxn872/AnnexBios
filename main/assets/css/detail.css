@@ -3,7 +3,12 @@
 }
 .header { 
     width: 1920px;
-    height: 161px;}
+    height: 161px;
+    float: left;
+}
+.container{
+    background-color: white;
+}
 .logo { 
     width: 350.92px;
     height: 104.36px;
@@ -11,4 +16,18 @@
 .nav { 
   width: 1920px;
   height: 161px;
+}
+
+li{
+    float: right;
+    display: inline;
+    padding: 20px;
+    margin-top: -70px;
+    height: 70px;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
 }
