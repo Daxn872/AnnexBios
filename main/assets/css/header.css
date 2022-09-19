@@ -103,7 +103,12 @@ a {
     .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
-
+    .logo { 
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        min-width: 326px; height: 78px;
+    }
 
 
 /* Dropdown Button start*/

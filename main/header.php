@@ -19,13 +19,13 @@
       <a href="index.html" class="nav-logo"></a>
       <ul class="nav-menu">
           <li class="nav-item">
-              <a href="index.html"  class="nav-link">FILM AGENDA</a>
+              <a href="pages/agenda.php"  class="nav-link">FILM AGENDA</a>
           </li>
                   <li class="nav-item">
-              <a href="#" class="nav-link">ALLE VESTIGINGEN</a>
+              <a href="pages/all.php" class="nav-link">ALLE VESTIGINGEN</a>
           </li>
           <li class="nav-item">
-              <a href="releases.html"  class="nav-link">CONTACT</a>
+              <a href="pages/contact.php"  class="nav-link">CONTACT</a>
           </li>
       </ul>
       <div class="hamburger">
