@@ -39,8 +39,7 @@
                                 <h3 class="film-release-date">07-06-2018</h3>
                             </div>
                             <p class="film-description">
-                                {{ film_shortinfo}}
-                                <!-- In het 3D actie-spektakel Jurassic World: Fallen Kingdom keren favoriete personages
+                                In het 3D actie-spektakel Jurassic World: Fallen Kingdom keren favoriete personages
                                 terug en
                                 worden er nieuwe soorten dinosaurussen geïntroduceerd die nog angstaanjagender zijn dan
                                 ooit tevoren.
@@ -68,7 +67,7 @@
                                 co-scenarist van Jurassic World.
                                 Steven Spielberg en Colin Trevorrow treden op als uitvoerend producenten namens
                                 Universal Pictures en Amblin Entertainment.
-                                Productie is in handen van Frank Marshall, Pat Crowley en Belén Atienza. -->
+                                Productie is in handen van Frank Marshall, Pat Crowley en Belén Atienza.
                             </p>
                             <div class="container-additional-info">
                                 <ul class="additional-info">
