@@ -15,7 +15,7 @@
 
    <!--Navbar start-->
    <nav class="navbar">
-      <img class="logo" src="assets/img//logo/montfoort.png"alt="logo">
+      <img class="logo" src="../assets/img//logo/montfoort.png"alt="logo">
       <a href="index.html" class="nav-logo"></a>
       <ul class="nav-menu">
           <li class="nav-item">
