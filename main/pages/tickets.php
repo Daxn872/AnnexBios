@@ -7,15 +7,13 @@
     <meta name="viewport" content="width=
     , initial-scale=1.0">
     <title>AnnexBios | Montfoort</title>
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="../assets/css/tickets.css">
+    <link rel="stylesheet" href="../assets/css/header.css">
 </head>
 <body>
-    
+
+    <?php
+        include '../header.php'; 
+    ?>
 </body>
-
-
-
-
-
-
 </html> 
