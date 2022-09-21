@@ -131,7 +131,33 @@ height: 161px;
     width: 1920px;
     height: 91px;
     background-color: #4596BA;
+}
+.category li { 
+    display: inline-block;
     font-family: lato;
     font-weight: bold;
     font-size: 15px;
+    color: #ffffff;
+    text-align: left;
+    padding-top: min(1.5rem, 1.5vw);
+    padding-left: min(1.5rem, 1.5vw);
 }
+.category li a {
+    color: #000000;
+}
+.category li a:hover {
+    color: #ffffff;
+}
+.button {
+    border: none;
+    color: black;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {background-color: #fafafa;} /* Green */

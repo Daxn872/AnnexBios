@@ -19,8 +19,8 @@
    <!--Navbar start-->
    <section class="navf"> 
    <nav class="navbar">
-      <img class="logo" src="../assets/img//logo/montfoort.png"alt="logo">
-      <a href="index.html" class="nav-logo"></a>
+      <img class="logo" src="./assets/img/logo/montfoort.png"alt="logo">
+      <a href="index.php" class="nav-logo"></a>
       <ul class="nav-menu">
           <li class="nav-item">
               <a href="pages/agenda.php"  class="nav-link">FILM AGENDA</a>
@@ -46,9 +46,10 @@
 <body>
 
 <div class="category">
-<ul>
-<li>KOOP JE TICKETS</li>  
-<select>
+   <ul>
+    <li>KOOP JE TICKETS</li>  
+    <li> 
+        <select>
 <div class="options">
     <option value="0">Kies je film</option>
     <option value="1">JURASSIC WORLD: FALLEN KINGDOM </option>
@@ -56,8 +57,9 @@
     <option value="3">SOLO:A STAR WARS STORY</option>
     <option value="4">PIETER KONIJN</option>
 </div>
-  </select>
-  <li> <a href="pages/tickets.php">BESTEL JE TICKETS</a></li>
+  </select> </li>
+  <button class="button button1" href="pages/detail.php">BESTEL JE TICKETS</button>
+
 </ul>
 </div>
       </body>
