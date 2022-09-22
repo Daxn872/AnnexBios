@@ -12,8 +12,30 @@
     <?php
     include 'header.php'; 
     ?>
+<!-- start first info box -->
+    <div class="stoelen"> 
+        <img src="../main/assets/img/header/header_afbeelding.jpg" alt="">
 
+        <div class="box"> 
+    </div>        
+        <div class="welcome"> 
+            WELKOM BIJ ANNEXBIOS MONTFOORT
+    </div>
 
+    <div class="txtbox"> 
+        <div> 
+            <p>   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate dolor 
+            laboriosam sapiente neque temporibus deserunt quam quibusdam ratione 
+            placeat doloremque tempore vero, corrupti facilis 
+            quidem officia quia? Error, molestias! Minus!   </p> 
+        </div> 
+    </div>
+    
+    <div class="select"> 
+        <button> BEKIJK DE DRAAIENDE FILMS</button> 
+    </div>
+
+    <!-- end first info box -->
 </body>
 <?php
     // include '../footer.php'; 
