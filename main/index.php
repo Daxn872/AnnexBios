@@ -36,6 +36,12 @@
     </div>
 
     <!-- end first info box -->
+    <!-- start box2 incl maps and pic -->
+    <div class="box2"> 
+</div> 
+<div class="maps"> 
+    
+</div> 
 </body>
 <?php
     // include '../footer.php'; 

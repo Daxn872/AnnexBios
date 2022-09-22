@@ -44,9 +44,20 @@
     margin-top: 520px;
     margin-left: 260px;
 }
+.box2 { 
+    position: absolute;
+    background: white;
+    display: block;
+    content: "";
+    height: 670px;
+    width: 1576px;
+    margin-top: 685px;
+    margin-left: 171px;
+}
 
+.maps{ 
 
-
+}
 
 
 
