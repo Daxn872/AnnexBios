@@ -1,5 +1,64 @@
-* { 
-    width: 1920px;
+body{
+    margin: 0;
+}
+footer { 
+    width: 100%; 
     height: 478px;
     background-color: #666666;
+}
+.footerlogo img{ 
+    width: 301.19px;
+    height: 107.2px;
+    margin-top: 112.8px;
+    margin-left: 181px;
+}
+.info { 
+    width: 403px;
+    height: 141px;
+    color: white;
+    font-family: lato;
+    font-weight: medium;
+    margin-top: 0;
+    margin-left: 195px;
+}
+.button { 
+    width: 108px;
+    height: 37px;
+    margin-top: -10px;
+    margin-left: 195px;
+    font-family: lato;
+    font-style: bold;
+}
+.nav { 
+    font-family: lato;
+    font-style: bold;
+    font-size: 30px;
+    color: white;
+    margin-top: -250px;
+    margin-left:  730px;
+}
+.cc { 
+    color: white;
+    font-family: lato;
+    font-weight: medium;
+    margin-left:  730px;
+}
+.txt { 
+    color: white;
+    font-family: lato;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left:  1025px;
+    margin-top: -219px;
+}
+.icons { 
+    width: 243px;
+    height: 243px;
+    margin-top: -25px;
+    margin-left: 1025px;
+}
+.ladder img{ 
+
+    margin-left: 1400px;
+    margin-top: -500px;
 }

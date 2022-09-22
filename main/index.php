@@ -14,8 +14,9 @@
     ?>
 
 
- 
-<?php include '../footer.php';?>   
 </body>
+<?php
+    // include '../footer.php'; 
+    ?>
 <script src="assets/js/script.js"></script>
 </html>
